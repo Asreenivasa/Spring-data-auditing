@@ -1,2 +1,4 @@
-# spring-data-auditing
-How to implement auditing using spring data jpa
+# Sourcegraph-Example
+File added to show case use cases of sourcegraph
+
+Hello sourcegraph
